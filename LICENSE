@@ -1,0 +1,66 @@
+Copyright (c) 2026 Gabriella Shebly. All rights reserved.
+
+SchutzelDev is proprietary software. It is free to use, but it is not open source,
+and no rights are granted beyond those stated here.
+
+WHAT YOU CAN DO
+
+You can install and use SchutzelDev on any computer you control, for personal or
+work use, including commercial projects you are allowed to work on.
+
+SchutzelDev is currently free. Future versions may be paid, but any version you
+already have will continue to work under the terms that came with it.
+
+WHAT YOU CAN'T DO
+
+You may not redistribute, resell, sublicense, rent, or host SchutzelDev for other
+people.
+
+You may not decompile or reverse engineer the distributed software, except where
+the law gives you that right.
+
+You may not remove or change copyright or attribution notices.
+
+You may not use SchutzelDev to build a competing product from its internals.
+
+WORKING WITH YOUR CODE
+
+SchutzelDev can suggest changes to files in the directory you run it from and its
+subdirectories.
+
+Before a suggested code change is written, SchutzelDev shows you the proposed diff
+and asks for your approval. Model-provided file changes are restricted to the
+directory SchutzelDev is run from and its subdirectories.
+
+You should run SchutzelDev from the root directory of the project you want to work
+on. Please review proposed changes before accepting them and keep your work in
+version control or otherwise backed up.
+
+SchutzelDev uses a local language model. Like any AI model, it can make mistakes,
+so you should review its output before relying on it.
+
+WARRANTY AND LIABILITY
+
+SchutzelDev is provided "as is", without warranties of any kind, express or
+implied, including the implied warranties of merchantability, fitness for a
+particular purpose, and non-infringement.
+
+To the maximum extent permitted by law, the author is not responsible for losses
+or damages resulting from the use of SchutzelDev, including lost profits or lost,
+overwritten, or corrupted code or data.
+
+Nothing in these terms excludes or limits liability where it cannot legally be
+excluded or limited. If you are a consumer, your statutory rights are not affected.
+
+THIRD-PARTY SOFTWARE
+
+SchutzelDev includes open-source components such as numpy, pydantic, click,
+prompt_toolkit, qdrant-client, h2, and the Ollama Python client. These components
+remain subject to their own licences. Copies of those licences are included with
+the installation under _internal.
+
+Ollama and the language models you use with it are separate software. They are
+obtained separately and are not distributed with SchutzelDev.
+
+Full terms: https://schutzel.io/legal/terms
+Contact: contact@schutzel.io
